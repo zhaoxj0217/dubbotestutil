@@ -8,8 +8,11 @@ dubbo接口的测试小工具
 
 填写好对应内容点击调用即可
 
+dubbotestutil.png
 
 
 
 同时也提供了http接口可供调用
 接口地址http://localhost:8181/generic/invoke
+
+dubbotestutil2.png
